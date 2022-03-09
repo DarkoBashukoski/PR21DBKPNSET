@@ -48,9 +48,13 @@ Also it is important to note that this data set is very messy and incomplete as 
 
 ## Goals and question we would like to answer
 
+With the current events of the world, energy consumption as well as fuel prices are increasing rapidly, so there is a greater need to transition into use of renewable energy sources. We would like to analyze energy consumtion around the world to find out if the trasnition has been started 
+
 With our analysis we would like to answer the following questions:
 
 * How much energy consumption has increased over the years
-* 
+* Which countries consume the most energy and which ones produce the most
+* How does a countries population affect energy consumption
+* Which countries are too relient on consumable fuels
 * Which countries use the most renewable energy sources and which ones do not
-* 
+* Has the popularity of renewable energy sources increased over the past years
