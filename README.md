@@ -1,4 +1,4 @@
-# PR21DBKPNSET
+# Global energy consumtrion and reliability on consumable fuels
 
 Seminar assignment for the subject Data Mining in the Faculty of Computer and Information Science - Ljubljana 2021/2022
 
